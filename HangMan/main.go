@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World")
+	for _, HangmanPositions := range HangmanPositions {
+		fmt.Println(HangmanPositions)
+	}
 }
