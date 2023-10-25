@@ -8,7 +8,4 @@ func main() {
 	for {
 		Options()
 	}
-	// n := rand.Intn(len(Words))
-	// fmt.Println(n)
-	// fmt.Println(Words[n])
 }
